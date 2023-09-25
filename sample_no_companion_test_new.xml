@@ -20,19 +20,15 @@
                 </Creative>
 
                 <!-- Companion Ad (Intentionally failing) -->
-                <!--<Creative id="2">
+                <Creative id="2">
                     <CompanionAds>
                         <Companion width="300" height="250">
                             <StaticResource creativeType="image/jpeg">
                                 <![CDATA[https://www.jiosaacn.com/nonexistent_companion.jpg]]>
                             </StaticResource>
-                            <CompanionClickThrough>
-                                <![CDATA[https://example.com/click_through_url]]>
-                            </CompanionClickThrough>
                         </Companion>
                     </CompanionAds>
                 </Creative>
-                -->
             </Creatives>
         </InLine>
     </Ad>
