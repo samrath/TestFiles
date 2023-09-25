@@ -20,7 +20,7 @@
                 </Creative>
 
                 <!-- Companion Ad (Intentionally failing) -->
-                <Creative id="2">
+                <!-- <Creative id="2">
                     <CompanionAds>
                         <Companion width="300" height="250">
                             <StaticResource creativeType="image/jpeg">
@@ -29,6 +29,7 @@
                         </Companion>
                     </CompanionAds>
                 </Creative>
+                -->
             </Creatives>
         </InLine>
     </Ad>
