@@ -13,7 +13,7 @@
                         <Duration>00:00:30</Duration>
                         <MediaFiles>
                             <MediaFile type="audio/mpeg" width="640" height="360">
-                                <![CDATA[http://s.saavn.com/ads/upload/mika_singapore_1.mp3]]>
+                                <![CDATA[https://s.saavn.com/ads/upload/mika_singapore_1.mp3]]>
                             </MediaFile>
                         </MediaFiles>
                     </Linear>
